@@ -1,8 +1,12 @@
 # tsitateli-api
 
-ციტატელი-API არის ღია პლატფორმა სადაც შეგიძლიათ დაამატოთ გამოჩენილი და ცნობილი ქართველი საზოგადო მოღვაწეების, მწერლების, მეცნიერების, მხატრვრების და ა.შ გამონათქვამები და ციტატები. ასევე, ამავე პლატფორმის საშუალებით შეგიძლიათ ისარგებლოთ ღია API-ით შემდეგი ენდფოინთიდან: [tsitatelli-api-endpoint](https://dev-meshveliani-apis.pantheonsite.io/jsonapi/node/tsitateli_api)
+ციტატელი-API არის ღია პლატფორმა სადაც შეგიძლიათ დაამატოთ გამოჩენილი და ცნობილი ქართველი საზოგადო მოღვაწეების, მწერლების, მეცნიერების, მხატრვრების და ა.შ გამონათქვამები და ციტატები. ასევე, ამავე პლატფორმის საშუალებით შეგიძლიათ ისარგებლოთ ღია API-ით შემდეგი ენდფოინთიდან: [tsitatelli-api-endpoint](https://dev-george1meshveliani-api.pantheonsite.io/meshveliani/apis/georgian-quotes)
 
-ციტატის დამატება კი შეგიძლიათ შემდეგი ბმულიდან: [tsitatelli-form-for-api](https://dev-meshveliani-apis.pantheonsite.io/node/add/tsitateli_api)
+[წყაროების ენფოინთი](https://dev-george1meshveliani-api.pantheonsite.io/meshveliani/apis/georgian_quotes/books)
+
+[თემატიკა](https://dev-george1meshveliani-api.pantheonsite.io/meshveliani/apis/georgian_quotes/topics)
+
+ციტატის დამატება კი შეგიძლიათ შემდეგი ბმულიდან: [tsitatelli-form-for-api](https://dev-george1meshveliani-api.pantheonsite.io/node/add/tsitatebi) - საჭიროა გქონდეთ შესაბამისი ფერმიშენი.
 
 გაითვალისწინეთ რომ არასწორი ინფორმაციის გადამოწმება მოხდება ადმინების მიერ და ცრუ ან ყალბი ინფორმაციის შემთხვევაში თქვენი დამატებული ციტატა წაიშლება. 
 
